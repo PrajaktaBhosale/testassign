@@ -10,14 +10,14 @@ and open the template in the editor.
         <title></title>
         <style>
             
-            div.wrapper {
+/*            div.wrapper {
                 margin: 10px;
                 float: left;
                 width: 200px;
                 height: 300px;
                 border-color: red;
                 border-style: solid;
-            }
+            }*/
             
             div.title {
                 text-align: center;
